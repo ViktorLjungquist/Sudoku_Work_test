@@ -1,4 +1,4 @@
-This is a work_test.
+This is a work test.
 
 To run this application:
 
