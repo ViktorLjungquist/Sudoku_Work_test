@@ -1,7 +1,6 @@
 import React from "react";
 import { Button } from "react-bootstrap";
 import * as sg from "./sudokuGenerator.js";
-var _ = require("lodash");
 
 export default class Board extends React.Component {
   constructor(props) {
