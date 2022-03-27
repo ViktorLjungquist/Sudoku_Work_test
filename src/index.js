@@ -4,6 +4,7 @@ import "./index.css";
 import Board from "./Board.js";
 import Menu from "./Menu";
 import "bootstrap/dist/css/bootstrap.css";
+var _ = require("lodash");
 
 class Game extends React.Component {
   constructor(props) {
