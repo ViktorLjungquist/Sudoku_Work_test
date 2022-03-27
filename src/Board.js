@@ -150,7 +150,7 @@ export default class Board extends React.Component {
   render() {
     return (
       <div>
-        <h2 className="title">Adam's Sudoku</h2>
+        <h2 className="title">Viktor's Sudoku</h2>
         {this.createBoard()}
       </div>
     );

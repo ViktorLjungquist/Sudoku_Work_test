@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "public/index.css";
-import Board from "./sudokuGenerator.js";
-import Menu from "./Menu.js";
+import "./index.css";
+import Board from "./Board.js";
+import Menu from "./Menu";
 import "bootstrap/dist/css/bootstrap.css";
 var _ = require("lodash");
 

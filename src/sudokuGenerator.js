@@ -1,3 +1,5 @@
+import "./index.css";
+import "bootstrap/dist/css/bootstrap.css";
 var _ = require("lodash");
 
 export function getNeighbors(coords, cells) {
